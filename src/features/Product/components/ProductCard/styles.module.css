@@ -1,0 +1,14 @@
+.container {
+    width: 23%;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.container:hover {
+    cursor: pointer;
+}
+
+.productImg {
+    width: 100%;
+    height: 200px;
+}
